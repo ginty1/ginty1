@@ -47,6 +47,11 @@
 
 ---
 
+### Latest Cloned Projects
+- [Dinsey +](https://disney-clone-80dec.web.app)
+
+<br />
+<br />
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
