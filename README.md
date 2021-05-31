@@ -1,8 +1,7 @@
 ### Hi there, I'm Kondwani Chiomba - aka [Ginty][call] 👋
 
-## I'm a Developer!!
+## I'm a Developer/Network Tech!!
 - 👀 I’m interested in Object Orinted Programing languages
-- 📫 chiombagintykondwani@gmail.com
 - 🔭 I currently cloning different web apps : [Disney/Airbnb/linked In/Istagram etc]!
 - 🔭 I just launched a channel: [Africa On Tech]!
 - 🌱 I have a girl freind...🤣
@@ -17,10 +16,11 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Kondwani Ginty Chiomba | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Facebook]
+[<img align="left" alt="Kondwani Chiomba | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Email]
+[<img align="left" alt="Kondwani Ginty Chiomba | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Africans on Tech with Ginty | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Kondwani Ginty Chiomba| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr |ginty" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="cKondwani |ginty" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
 
 <br />
 
@@ -61,7 +61,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCbn5Hckl9sK3uVPtEdEnzpw/videos)
 
 </details>
-
+ [Email]:chiombagintykondwani@gmail.com
 [twitter]: https://twitter.com/ChiombaGinty
 [youtube]: https://www.youtube.com/channel/UCbn5Hckl9sK3uVPtEdEnzpw
 [FaceBook]: https://web.facebook.com/k.chiomba
