@@ -6,7 +6,7 @@
 - 🔭 I just launched a channel: [Africa On Tech]!
 - 🌱 I have a girl freind...🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love watching football
 
 ### Spotify Playing 🎧
@@ -43,6 +43,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+
 <br />
 <br />
 
@@ -60,8 +61,9 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbn5Hckl9sK3uVPtEdEnzpw/videos)
 
-</details>
- [Email]:chiombagintykondwani@gmail.com
+
+
+[Email]:chiombagintykondwani@gmail.com
 [twitter]: https://twitter.com/ChiombaGinty
 [youtube]: https://www.youtube.com/channel/UCbn5Hckl9sK3uVPtEdEnzpw
 [FaceBook]: https://web.facebook.com/k.chiomba
