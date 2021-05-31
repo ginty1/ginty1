@@ -49,9 +49,15 @@
 
 ### Latest Cloned Projects
 - [Dinsey +](https://disney-clone-80dec.web.app)
+<br />
+<br />
+
+### Projects
+- [MthandiziLoan +](https://play.google.com/store/apps/details?id=com.paul.hestings)
 
 <br />
 <br />
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
