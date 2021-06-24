@@ -1,8 +1,9 @@
 ### Hi there, I'm Kondwani Chiomba - aka [Ginty][call] 👋
 
 ## I'm a Developer/Network Tech!!
+
 - 👀 I’m interested in Object Orinted Programing languages
-- 🔭 I currently cloning different web apps : [Disney/Airbnb/linked In/Istagram etc]!
+- 🔭 I currently cloning different web apps : [Disney/Airbnb/linkedIn/Istagram etc]!
 - 🔭 I just launched a channel: [Africa On Tech]!
 - 🌱 I have a girl freind...🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -15,10 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kondwani Ginty Chiomba | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="Kondwani Ginty Chiomba | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Africans on Tech with Ginty | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Kondwani Ginty Chiomba| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="cKondwani |ginty" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="cKondwani |ginty" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -41,18 +42,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 <br />
 <br />
 
 ---
 
-### Latest Cloned Projects
+### Latest Cloned Projects/practice purposes development
+
 - [Dinsey +](https://disney-clone-80dec.web.app)
-<br />
-<br />
+- [LinkedIn +](https://linkedin-4abea.firebaseapp.com)
+  <br />
+  <br />
 
 ### Projects
+
 - [MthandiziLoan +](https://play.google.com/store/apps/details?id=com.paul.hestings)
 
 <br />
@@ -61,6 +64,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [MoyoWanga Healthy Project Show casing](https://www.youtube.com/watch?v=8HJE47gzTNU&t=33s)
 - [Wireflame in AdobeXD](https://www.youtube.com/watch?v=sphjJ2wjAuU&t=56s)
 - [Group Iterms in AdobeXD](https://www.youtube.com/watch?v=aFhIfibEAYo&t=190s)
@@ -70,9 +74,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbn5Hckl9sK3uVPtEdEnzpw/videos)
 
-
-
 [twitter]: https://twitter.com/ChiombaGinty
 [youtube]: https://www.youtube.com/channel/UCbn5Hckl9sK3uVPtEdEnzpw
-[FaceBook]: https://web.facebook.com/k.chiomba
-[Instagram]: https://www.instagram.com/ckondwani
+[facebook]: https://web.facebook.com/k.chiomba
+[instagram]: https://www.instagram.com/ckondwani
