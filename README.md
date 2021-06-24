@@ -50,7 +50,7 @@
 ### Latest Cloned Projects/practice purposes development
 
 - [Dinsey +](https://disney-clone-80dec.web.app)
-- [LinkedIn +](https://linkedin-4abea.firebaseapp.com)
+- [LinkedIn](https://linkedin-4abea.firebaseapp.com)
   <br />
   <br />
 
