@@ -50,8 +50,9 @@
 ### Latest Cloned Projects/practice purposes development/check them out
 
 - [Dinsey +](https://disney-clone-80dec.web.app)
-- [LinkedIn](https://linkedin-4abea.firebaseapp.com)
-- [Snapchart](https://disney-clone-80dec.firebaseapp.com)
+- [LinkedIn-clone](https://linkedin-4abea.firebaseapp.com)
+- [Snapchart-clone](https://disney-clone-80dec.firebaseapp.com)
+- [Imessage-clone](https://disney-clone-80dec.web.app)
   <br />
   <br />
 
