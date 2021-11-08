@@ -49,10 +49,10 @@
 
 ### Latest Cloned Projects/practice purposes development/check them out
 
-- [Dinsey +](https://disney-clone-80dec.firebaseapp.com)
+- [Dinsey +](https://disney-cloneee.web.app/)
 - [LinkedIn-clone](https://linkedin-4abea.firebaseapp.com)
 - [Snapchart-clone](https://disney-clone-80dec.firebaseapp.com)
-- [Imessage-clone](https://disney-clone-80dec.web.app)
+- [Imessage-clone](https://imassaging.firebaseapp.com)
   <br />
   <br />
 
