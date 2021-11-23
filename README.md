@@ -51,7 +51,6 @@
 
 - [Dinsey +](https://disney-cloneee.web.app/)
 - [LinkedIn-clone](https://linkedin-4abea.firebaseapp.com)
-- [Snapchart-clone](https://disney-clone-80dec.firebaseapp.com)
 - [Imessage-clone](https://imassaging.firebaseapp.com)
   <br />
   <br />
