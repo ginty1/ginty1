@@ -55,12 +55,7 @@
   <br />
   <br />
 
-### android health project
-
-<br />
-<br />
-
-### 📺 Latest YouTube Videos
+### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
 
